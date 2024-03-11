@@ -1,4 +1,4 @@
-Project Title HERE
+Viren's Test Project
 ==================
 
 # About this project
